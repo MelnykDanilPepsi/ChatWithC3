@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e7b2fab-db53-48ea-81a7-c5de2d3813b8": {
+      "ProjectGuid": "9e7b2fab-db53-48ea-81a7-c5de2d3813b8",
+      "DisplayName": "ChatSocket",
+      "ColorIndex": 0
+    },
+    "512429a8-c6e1-4d98-9d09-354efa6e5d12": {
+      "ProjectGuid": "512429a8-c6e1-4d98-9d09-354efa6e5d12",
+      "DisplayName": "SocketTcpServer",
+      "ColorIndex": 1
+    },
+    "0b616c9c-c0dd-44ff-9b61-88c221d4bde6": {
+      "ProjectGuid": "0b616c9c-c0dd-44ff-9b61-88c221d4bde6",
+      "DisplayName": "SocketTcpClient",
+      "ColorIndex": 2
+    },
+    "d39a7579-55ff-497d-8a37-427bab89dec4": {
+      "ProjectGuid": "d39a7579-55ff-497d-8a37-427bab89dec4",
+      "DisplayName": "ChatClient",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

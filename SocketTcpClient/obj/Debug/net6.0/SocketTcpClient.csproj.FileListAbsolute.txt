@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\bin\Debug\net6.0\SocketTcpClient.exe
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\bin\Debug\net6.0\SocketTcpClient.deps.json
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\bin\Debug\net6.0\SocketTcpClient.runtimeconfig.json
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\bin\Debug\net6.0\SocketTcpClient.dll
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\bin\Debug\net6.0\ref\SocketTcpClient.dll
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\bin\Debug\net6.0\SocketTcpClient.pdb
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\SocketTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\SocketTcpClient.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\SocketTcpClient.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\SocketTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\SocketTcpClient.dll
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\ref\SocketTcpClient.dll
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\SocketTcpClient.pdb
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\SocketTcpClient.genruntimeconfig.cache
+C:\Users\Hp\source\repos\ChatSocket\SocketTcpClient\obj\Debug\net6.0\SocketTcpClient.csproj.AssemblyReference.cache
